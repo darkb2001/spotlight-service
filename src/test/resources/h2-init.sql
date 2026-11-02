@@ -1,0 +1,3 @@
+-- Optional seed data for integration tests
+-- INSERT INTO SPOTLIGHT_LOG (OWNER_ID, RESOURCE_CODE, HIGHLIGHTS, POSITION, APPLIED_DATE)
+-- VALUES (100, 'RES-001', 'Premium,Featured', 1, CURRENT_TIMESTAMP);
